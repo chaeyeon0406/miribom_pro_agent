@@ -1,0 +1,122 @@
+[
+  {
+    "id": "phq9_1",
+    "question": "지난 2주 동안, 일상 활동에 대한 흥미나 즐거움이 거의 없었습니까? (Little interest or pleasure in doing things)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_2",
+    "question": "지난 2주 동안, 기분이 가라앉거나, 우울하거나, 희망이 없다고 느꼈습니까? (Feeling down, depressed, or hopeless)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_3",
+    "question": "지난 2주 동안, 잠들기 어렵거나 자주 깼습니까? 혹은 잠을 너무 많이 잤습니까? (Trouble falling or staying asleep, or sleeping too much)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_4",
+    "question": "지난 2주 동안, 피곤하고 기운이 없다고 느꼈습니까? (Feeling tired or having little energy)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_5",
+    "question": "지난 2주 동안, 입맛이 없었습니까? 혹은 너무 많이 먹었습니까? (Poor appetite or overeating)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_6",
+    "question": "지난 2주 동안, 자기 자신이 싫거나, 실패했다고 느끼거나, 가족을 실망시켰다고 느꼈습니까? (Feeling bad about yourself - or that you are a failure or have let yourself or your family down)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_7",
+    "question": "지난 2주 동안, 신문을 읽거나 TV를 보는 것과 같은 일에 집중하기 어려웠습니까? (Trouble concentrating on things, such as reading the newspaper or watching television)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_8",
+    "question": "지난 2주 동안, 다른 사람들이 알아챌 정도로 평소보다 말을 느리게 하거나 안절부절못했습니까? (Moving or speaking so slowly that other people could have noticed, or the opposite - being so fidgety or restless that you have been moving a lot more than usual)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_9",
+    "question": "지난 2주 동안, 차라리 죽는 것이 낫겠다고 생각하거나, 어떻게든 자해할 생각을 했습니까? (Thoughts that you would be better off dead, or of hurting yourself in some way)",
+    "options": [
+      { "score": 0, "text": "전혀 없음 (Not at all)" },
+      { "score": 1, "text": "며칠 동안 (Several days)" },
+      { "score": 2, "text": "절반 이상 (More than half the days)" },
+      { "score": 3, "text": "거의 매일 (Nearly everyday)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  },
+  {
+    "id": "phq9_10",
+    "question": "만약 위의 문제 중 어떤 것이라도 확인하셨다면, 이러한 문제들로 인해 당신이 일하거나, 집안일을 하거나, 다른 사람들과 어울리는 것이 얼마나 어려웠습니까? (If you check off any of these problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?)",
+    "options": [
+      { "score": 0, "text": "전혀 어렵지 않음 (Not difficult)" },
+      { "score": 1, "text": "다소 어려움 (Somewhat difficult)" },
+      { "score": 2, "text": "매우 어려움 (Very difficult)" },
+      { "score": 3, "text": "극심하게 어려움 (Extremely difficult)" }
+    ],
+    "answer_score": null,
+    "reasoning": null
+  }
+]
